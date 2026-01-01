@@ -23,6 +23,15 @@ The Power BI dashboard enables:
 - Identification of high and low performing SKUs
 - Trend analysis to support sales planning
 - Data-driven operational and sales decisions
+## Dashboard Design Approach
+
+The Power BI dashboard was designed with a decision-first layout, prioritizing clarity and usability over visual complexity.
+
+Design principles applied:
+- KPI cards placed at the top to provide instant performance visibility
+- Consistent color usage to distinguish positive vs negative trends
+- Minimal clutter with focused visuals to support quick executive review
+- Drill-down capability to move from summary metrics to product- and region-level details
 
 ## Business Insights
 - Identified products contributing the majority of revenue
